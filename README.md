@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Marwaha</h1>
 <h3 align="center">A passionate aspiring Full-stack developer from India</h3>
+<p align="right"> <img src="https://imgs.search.brave.com/ZZxJc8p0iTpqDvGKgFfhwEV9wFkBU1wdZPHwyiB7rqA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhLzEzSGd3/R3NYRjBhaUdZLzIw/MC5naWY_Y2lkPTc5/MGI3NjExNGpuNjBl/cTJvaXZzeDJkd3c3/OHVsYzgzajVtOWF5/cWgzbHl5ZGN0cCZl/cD12MV9naWZzX3Nl/YXJjaCZyaWQ9MjAw/LmdpZiZjdD1n.gif"/> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyaamarwaha" target="blank"><img src="https://img.shields.io/twitter/follow/shreyaamarwaha?logo=twitter&style=for-the-badge" alt="shreyaamarwaha" /></a> </p>
 
