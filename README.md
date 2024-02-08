@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Marwaha</h1>
 <h3 align="center">A passionate aspiring Full-stack developer from India</h3>
-<p align="center"> <img src="https://imgs.search.brave.com/ZZxJc8p0iTpqDvGKgFfhwEV9wFkBU1wdZPHwyiB7rqA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTAuZ2lwaHkuY29t/L21lZGlhLzEzSGd3/R3NYRjBhaUdZLzIw/MC5naWY_Y2lkPTc5/MGI3NjExNGpuNjBl/cTJvaXZzeDJkd3c3/OHVsYzgzajVtOWF5/cWgzbHl5ZGN0cCZl/cD12MV9naWZzX3Nl/YXJjaCZyaWQ9MjAw/LmdpZiZjdD1n.gif"/> </p>
+<p align="center"> <img src="https://i.imgur.com/NPCWRH9.png" width="400" height="300"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaamarwaha&show_icons=true&locale=en&layout=compact" alt="shreyaamarwaha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyaamarwaha&show_icons=true&locale=en&layout=compact&theme=radical" alt="shreyaamarwaha" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaamarwaha&" alt="shreyaamarwaha" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaamarwaha&theme=radical" alt="shreyaamarwaha" />
 </p>
