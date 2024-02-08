@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web development and designing projects**
 
-- 📝 I regularly write articles on [twitter and wordpress](twitter and wordpress)
+- 📝 I regularly write articles on Hashnode and medium.
 
 - 📫 How to reach me **shreya.marwaha12@gmail.com**
 
