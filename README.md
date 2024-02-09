@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreya Marwaha</h1>
 <h3 align="center">A passionate aspiring Full-stack developer from India</h3>
-<p align="center"> <img src="https://i.imgur.com/NPCWRH9.png" width="400" height="300"/> </p>
+<p align="center"> <img src="Navy Modern Marketing Expert LinkedIn Banner.png" width="400" height="300"/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
