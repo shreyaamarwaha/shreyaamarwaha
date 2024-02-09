@@ -1,6 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shreya Marwaha</title>
+  <style>
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+      to {
+        opacity: 1;
+      }
+    }
+
+    .banner-img {
+      width: 100%;
+      animation: fadeIn 1s ease-in-out;
+    }
+  </style>
+</head>
+<body>
+
 <h1 align="center">Hi 👋, I'm Shreya Marwaha</h1>
 <h3 align="center">A passionate aspiring Full-stack developer from India</h3>
-<p align="center"> <img src="Navy Modern Marketing Expert LinkedIn Banner.png" width="700" height="400"/> </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/2dWTkVT.png" class="banner-img" alt="Banner Image" />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,13 +40,9 @@
 </p>
 
 - 🔭 I’m currently working on **EcoSankalp**
-
 - 🌱 I’m currently learning **React and React Native**
-
 - 👯 I’m looking to collaborate on **Web development and designing projects**
-
 - 📝 I regularly write articles on **Hashnode** and **Medium**.
-
 - 📫 How to reach me: **shreya.marwaha12@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,3 +66,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyaamarwaha&theme=radical" alt="shreyaamarwaha" />
 </p>
+
+</body>
+</html>
