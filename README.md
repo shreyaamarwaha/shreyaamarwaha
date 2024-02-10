@@ -14,10 +14,6 @@
       }
     }
 
-    .banner-img {
-      width: 100%;
-      animation: fadeIn 1s ease-in-out;
-    }
   </style>
 </head>
 <body>
