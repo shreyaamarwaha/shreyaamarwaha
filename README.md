@@ -7,7 +7,7 @@
 <body>
 
 <h1 align="center">Hi, I'm Shreya Marwaha</h1>
-<h3 align="center">A passionate aspiring Full-stack developer from India</h3>
+<h3 align="center">A passionate aspiring Computer Science Enthusiast from India</h3>
 
 <p align="center">
   <img src="Navy Modern Marketing Expert LinkedIn Banner.png" class="banner-img" alt="Banner Image" />
@@ -24,7 +24,6 @@
 </p>
 
 - 🔭 I’m currently working on **EcoSankalp**
-- 🌱 I’m currently learning **React and React Native**
 - 👯 I’m looking to collaborate on **Web development and designing projects**
 - 📝 I regularly write articles on **Hashnode** and **Medium**.
 - 📫 How to reach me: **shreya.marwaha12@gmail.com**
