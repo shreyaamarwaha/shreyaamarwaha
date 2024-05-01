@@ -65,13 +65,9 @@ My journey includes adept web development skills in HTML, CSS, Javascript and da
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="snake.svg" alt="snake"/>
 </p>
 
-
-
-### How to reach me :mailbox:
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/sam_gyps)
 
 
 
